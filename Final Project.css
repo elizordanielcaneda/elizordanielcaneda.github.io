@@ -1,0 +1,237 @@
+body {
+	font-family: Bahnschrift;
+	background-color: cornsilk;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+	color: brown;
+
+}
+
+nav {
+	background-color: DarkSalmon;
+	height: 90px;
+}
+
+label.title {
+	color: FloralWhite;
+	font-size: 45px;
+	line-height: 90px;
+	font-weight: bold;
+	margin: 50px;
+	text-transform: uppercase;
+}
+
+li {
+	float: right;
+	padding: 37px 30px;
+	margin-right: 20px;
+	text-transform: uppercase;
+	font-size: 17px;
+	display: inline-block;
+}
+a.active {
+	color: floralwhite;
+	border-radius: 3px;
+}
+a:hover {
+	color: floralwhite;
+	background: salmon;
+	transition: .3s;
+	border-radius: 10px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+div.container1 {
+	background-color: lemonchiffon;
+	width: 1000px;
+	border: 15px solid darksalmon;
+	border-radius: 60px;
+	padding: 50px;
+	margin-left: 25%;
+	margin-top: 5%;
+	font-size: 150px;
+ 	text-align: center;
+ 	font-family: monotype corsiva;
+ 	color: darksalmon;
+}
+ 
+
+ div.container2 {
+ 	background-color: lemonchiffon;
+ 	width: 1400px;
+ 	border: 15px solid darksalmon;
+	border-radius: 60px;
+	padding: 20px;
+	margin-left: 14%;
+	margin-top: 4%;
+	text-align: center;
+	position: relative;
+ }
+
+img.me {
+	height: 500px;
+	border-radius: 60px;
+	margin-top: 3%;
+	margin-left: 3%;
+	margin-bottom: 3%;
+}
+
+div.qwe {
+	font-size: 35px;
+}
+
+div.container3 {
+	background-color: lemonchiffon;
+ 	width: 1500px;
+ 	border: 15px solid darksalmon;
+	border-radius: 60px;
+	padding: 20px;
+	margin-left: 11%;
+	margin-top: 4%;
+	text-align: center;
+	position: relative;
+}
+
+img.father {
+	height: 400px;
+	border-radius: 60px;
+	margin-top: 3%;
+	margin-left: 3%;
+	margin-bottom: 3%;
+}
+
+img.mother {
+	height: 400px;
+	border-radius: 60px;
+	margin-top: 3%;
+	margin-left: 3%;
+	margin-bottom: 3%;
+}
+
+img.brother {
+	height: 400px;
+	border-radius: 60px;
+	margin-top: 3%;
+	margin-left: 3%;
+	margin-bottom: 3%;
+}
+
+div.fam {
+	font-size: 35px;
+	text-align: justify;
+}
+
+.container4 {
+	background-color: lemonchiffon;
+	height: 500px;
+ 	width: 1000px;
+ 	border: 15px solid darksalmon;
+	border-radius: 60px;
+	padding: 20px;
+	margin-left: 24%;
+	margin-top: 7%;
+	text-align: center;
+	position: relative;
+}
+
+.asd {
+	font-size: 35px;
+	margin-top: 20%;
+	text-align: justify;
+}
+
+.container5 {
+	background-color: lemonchiffon;
+	height: 550px;
+ 	width: 1200px;
+ 	border: 15px solid darksalmon;
+	border-radius: 60px;
+	padding: 20px;
+	margin-left: 19%;
+	margin-top: 7%;
+	text-align: center;
+	position: relative;
+}
+
+.container6 {
+	background-color: lemonchiffon;
+	height: 500px;
+ 	width: 1000px;
+ 	border: 15px solid darksalmon;
+	border-radius: 60px;
+	padding: 20px;
+	margin-left: 24%;
+	margin-top: 7%;
+	text-align: center;
+	position: relative;
+}
+
+.container7 {
+	background-color: lemonchiffon;
+	height: 500px;
+ 	width: 1000px;
+ 	border: 15px solid darksalmon;
+	border-radius: 60px;
+	padding: 20px;
+	margin-left: 24%;
+	margin-top: 7%;
+	text-align: center;
+	position: relative;
+}
+
+.container8 {
+	background-color: lemonchiffon;
+	height: 500px;
+ 	width: 1000px;
+ 	border: 15px solid darksalmon;
+	border-radius: 60px;
+	padding: 20px;
+	margin-left: 24%;
+	margin-top: 7%;
+	text-align: center;
+	position: relative;
+}
+
+.asdf {
+	font-size: 35px;
+	margin-top: 7%;
+	text-align: justify;
+}
+
+.ski {
+	font-size: 35px;
+	margin-top: 3.5%;
+	text-align: justify;
+}
+
+.stre {
+	font-size: 35px;
+	margin-top: 3.5%;
+	text-align: justify;
+}
+
+.asdfg {
+	font-size: 35px;
+	margin-top: 5%;
+	text-align: justify;
+}
+
+img.guitar {
+	height: 400px;
+	border-radius: 60px;
+	margin-left: 3%;
+	margin-bottom: 3%;
+	float: left;
+	padding: 0 20px 0 0;
+}
+
+div.t {
+	text-align: justify;
+}
